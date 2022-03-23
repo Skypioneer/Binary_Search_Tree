@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p2/BST.h
+iostream
+-
+sstream
+-
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p2/p2.cpp
+iostream
+-
+fstream
+-
+BST.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p2/BST.h
+
